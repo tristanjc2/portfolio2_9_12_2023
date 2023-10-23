@@ -14,7 +14,8 @@
 .avatar.skills {
   height: 190vh;
   bottom: -110vh;
-  left: -1.5rem;
+  left: -20rem;
+  top:45px;
   transform: translateX(0%) scaleX(-1);
 }
 
